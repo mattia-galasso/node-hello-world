@@ -1,0 +1,16 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "First Node Backend Project",
+  "keywords": [
+    "server",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Mattia Galasso - Boolean WD-152",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
