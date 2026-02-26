@@ -11,6 +11,9 @@
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
+    "watch": "node --watch server.js",
+    "watch_argv": "node --watch server.js Mattia",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
